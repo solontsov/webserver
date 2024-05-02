@@ -1,5 +1,5 @@
 vc140.pdb
-server.obj
-server.pdb
-server.ilk
-server.exe
+*.obj
+*.pdb
+*.ilk
+*.exe
